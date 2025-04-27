@@ -16,9 +16,13 @@
         "Playwright",
         "Requests",
         "HTTPX",
+        "aiohttp",
         "LXML",
-        "PyQuery"
-    ],
+        "PyQuery",
+        "parsel",
+        "pyppeteer"
+]
+,
     "Automação de Testes": [
         "Selenium",
         "Playwright",
