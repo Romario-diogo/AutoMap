@@ -1,0 +1,184 @@
+{
+    "RPA / Robotic Process Automation": [
+        "UiPath / UiPath",
+        "Power Automate / Power Automate",
+        "Automation Anywhere / Automation Anywhere",
+        "PyAutoGUI / PyAutoGUI",
+        "Pywinauto / Pywinauto",
+        "OpenRPA / OpenRPA"
+    ],
+    "Web Scraping e Extração de Dados / Web Scraping and Data Extraction": [
+        "Scrapy / Scrapy",
+        "BeautifulSoup / BeautifulSoup",
+        "Selenium / Selenium",
+        "Playwright / Playwright",
+        "Requests / Requests",
+        "HTTPX / HTTPX",
+        "LXML / LXML",
+        "PyQuery / PyQuery"
+    ],
+    "Automação de Testes / Test Automation": [
+        "Selenium / Selenium",
+        "Playwright / Playwright",
+        "PyTest + Selenium / PyTest + Selenium",
+        "Robot Framework / Robot Framework",
+        "PyTest-BDD / PyTest-BDD",
+        "Unittest / Unittest",
+        "Behave / Behave"
+    ],
+    "Automação de Bots / Bots Automation": [
+        "Telethon / Telethon",
+        "PyTelegramBotAPI / PyTelegramBotAPI",
+        "WhatsApp Web Automation / WhatsApp Web Automation",
+        "Discord.py / Discord.py",
+        "Slack SDK for Python / Slack SDK for Python",
+        "RPA Framework for Bots / RPA Framework for Bots"
+    ],
+    "Automação de Processos, ETL e Orquestração / Process Automation, ETL and Orchestration": [
+        "Apache Airflow / Apache Airflow",
+        "Prefect / Prefect",
+        "Luigi / Luigi",
+        "Pandas / Pandas",
+        "SQLAlchemy / SQLAlchemy",
+        "Dask / Dask"
+    ],
+    "Bibliotecas para Integração com APIs / Libraries for API Integration": [
+        "Requests / Requests",
+        "HTTPX / HTTPX",
+        "FastAPI / FastAPI",
+        "Flask / Flask",
+        "Pydantic / Pydantic"
+    ],
+    "Manipulação de Arquivos e Automação Local / File Handling and Local Automation": [
+        "os / os",
+        "shutil / shutil",
+        "glob / glob",
+        "openpyxl / openpyxl",
+        "xlrd / xlrd",
+        "xlwt / xlwt"
+    ],
+    "Manipulação de Documentos / Document Handling": [
+        "PyPDF2 / PyPDF2",
+        "pdfplumber / pdfplumber",
+        "python-docx / python-docx",
+        "reportlab / reportlab",
+        "tabula-py / tabula-py"
+    ],
+    "Ferramentas de Suporte / Support Tools": [
+        "Proxy Providers / Proxy Providers",
+        "Fake-Useragent / Fake-Useragent",
+        "Tor / Tor",
+        "Logging / Logging",
+        "Schedule / Schedule",
+        "tenacity / tenacity"
+    ],
+    "Monitoramento e Webhooks / Monitoring and Webhooks": [
+        "Webhooks / Webhooks",
+        "Watchdog / Watchdog",
+        "APScheduler / APScheduler"
+    ],
+    "Integração e Deployment / Integration and Deployment": [
+        "GitHub Actions / GitHub Actions",
+        "GitLab CI / GitLab CI",
+        "Jenkins / Jenkins",
+        "Docker / Docker",
+        "Docker Compose / Docker Compose"
+    ],
+    "Automação Orientada a Eventos / Event-Driven Automation": [
+        "AWS Lambda / AWS Lambda",
+        "Google Cloud Functions / Google Cloud Functions"
+    ],
+    "Automação em Nuvem para RPA / Cloud-based RPA Automation": [
+        "UiPath Cloud / UiPath Cloud",
+        "Automation Anywhere Cloud / Automation Anywhere Cloud"
+    ],
+    "Automação em Segurança / Security Automation": [
+        "OpenVAS / OpenVAS",
+        "Nmap / Nmap",
+        "Wazuh API / Wazuh API",
+        "OSSEC / OSSEC",
+        "Fail2Ban / Fail2Ban",
+        "Snort / Snort",
+        "Elastic SIEM / Elastic SIEM",
+        "Security Onion / Security Onion"
+    ],
+    "Automação em Machine Learning / Machine Learning Automation": [
+        "MLflow / MLflow",
+        "DVC / DVC",
+        "Metaflow / Metaflow",
+        "Kubeflow / Kubeflow",
+        "Prefect + Scikit-learn / Prefect + Scikit-learn",
+        "Tensorflow Extended (TFX) / Tensorflow Extended (TFX)",
+        "Airflow + ML Pipelines / Airflow + ML Pipelines"
+    ],
+    "Infraestrutura como Código / Infrastructure as Code": [
+        "Terraform / Terraform",
+        "Ansible / Ansible",
+        "Pulumi / Pulumi",
+        "CloudFormation / CloudFormation",
+        "boto3 (AWS SDK for Python) / boto3 (AWS SDK for Python)",
+        "Paramiko / Paramiko",
+        "Fabric / Fabric"
+    ],
+    "Automação de Segurança Ofensiva / Offensive Security Automation": [
+        "Nmap / Nmap",
+        "Metasploit (Python scripting) / Metasploit (Python scripting)",
+        "ExploitDB Integration / ExploitDB Integration",
+        "Nikto Automation / Nikto Automation",
+        "OpenVAS Scanner API / OpenVAS Scanner API",
+        "Masscan / Masscan"
+    ],
+    "Automação em Análise de Dados / Data Analysis Automation": [
+        "Pandas / Pandas",
+        "NumPy / NumPy",
+        "Seaborn / Seaborn",
+        "Matplotlib / Matplotlib",
+        "Scikit-learn / Scikit-learn",
+        "Statsmodels / Statsmodels"
+    ],
+    "Automação de Fluxos de Trabalho Empresariais / Business Workflow Automation": [
+        "Camunda BPM / Camunda BPM",
+        "Activiti BPM / Activiti BPM",
+        "Apache Nifi / Apache Nifi",
+        "BPMN Python SDK / BPMN Python SDK"
+    ],
+    "Orquestração de Contêineres e Serviços Cloud / Container and Cloud Services Orchestration": [
+        "Kubernetes (client-python) / Kubernetes (client-python)",
+        "Helm Automation / Helm Automation",
+        "AWS EKS (boto3) / AWS EKS (boto3)",
+        "AWS ECS (boto3) / AWS ECS (boto3)",
+        "GKE (Google Kubernetes Engine) / GKE (Google Kubernetes Engine)",
+        "Azure AKS (Azure SDK for Python) / Azure AKS (Azure SDK for Python)"
+    ],
+    "Automação de Governança e Compliance / Governance and Compliance Automation": [
+        "AWS Config (boto3) / AWS Config (boto3)",
+        "Azure Policy SDK / Azure Policy SDK",
+        "Google Cloud Config Validator / Google Cloud Config Validator",
+        "Open Policy Agent (OPA) / Open Policy Agent (OPA)",
+        "Auditd Python Wrappers / Auditd Python Wrappers",
+        "Python logging + syslog / Python logging + syslog"
+    ],
+    "Automação de Gestão de Configuração / Configuration Management Automation": [
+        "Ansible (Python modules) / Ansible (Python modules)",
+        "Chef (Knife plugins Python) / Chef (Knife plugins Python)",
+        "Puppet (Python APIs) / Puppet (Python APIs)",
+        "SaltStack / SaltStack",
+        "pyinfra / pyinfra"
+    ],
+    "Automação para IoT / IoT Automation": [
+        "MQTT (paho-mqtt) / MQTT (paho-mqtt)",
+        "AWS IoT (boto3) / AWS IoT (boto3)",
+        "Azure IoT SDK / Azure IoT SDK",
+        "Node-RED / Node-RED",
+        "Adafruit_IO / Adafruit_IO",
+        "CoAPy / CoAPy"
+    ],
+    "Automação em Engenharia de Dados / Data Engineering Automation": [
+        "Apache Airflow / Apache Airflow",
+        "Apache Beam / Apache Beam",
+        "Spark (pyspark) / Spark (pyspark)",
+        "Pandas + Dask / Pandas + Dask",
+        "AWS Glue (boto3) / AWS Glue (boto3)",
+        "dbt (Python hooks) / dbt (Python hooks)"
+    ]
+}

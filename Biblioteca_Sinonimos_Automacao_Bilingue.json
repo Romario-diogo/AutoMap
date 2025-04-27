@@ -1,0 +1,121 @@
+{
+    "RPA / Automação de Processos": [
+        "Analista RPA",
+        "RPA Analyst",
+        "Desenvolvedor RPA",
+        "RPA Developer",
+        "Especialista em RPA",
+        "RPA Specialist",
+        "Automação de Processos",
+        "Process Automation",
+        "Automation Developer",
+        "Automation Engineer",
+        "Analista de Automação de Processos",
+        "Process Automation Analyst",
+        "Automação Robótica de Processos",
+        "Robotic Process Automation Engineer",
+        "Digital Process Automation Engineer"
+    ],
+    "Web Scraping / Coleta de Dados": [
+        "Desenvolvedor Web Scraping",
+        "Web Scraping Developer",
+        "Engenheiro de Web Scraping",
+        "Web Scraping Engineer",
+        "Scraping Developer",
+        "Data Collection Engineer",
+        "Engenheiro de Coleta de Dados",
+        "Especialista em Web Scraping",
+        "Python Scraping Developer",
+        "Data Extraction Specialist"
+    ],
+    "Automação de Testes": [
+        "Automação de Testes",
+        "Test Automation",
+        "QA Automação",
+        "QA Automation",
+        "QA Automation Engineer",
+        "Test Automation Engineer",
+        "Engenheiro de Automação de Testes",
+        "Test Automation Specialist",
+        "Desenvolvedor de Testes Automatizados",
+        "Python Test Automation",
+        "Behave BDD Automation",
+        "QA Tester Automation"
+    ],
+    "Bots / Chat Automation": [
+        "Desenvolvedor de Bots",
+        "Bot Developer",
+        "Automation Bots Developer",
+        "Python Bots Developer",
+        "Desenvolvedor de Robôs (Chatbot)",
+        "Chatbot Developer",
+        "RPA Bots Developer",
+        "Bot Automation Specialist"
+    ],
+    "Automação Geral / Automação com Python": [
+        "Desenvolvedor de Automação",
+        "Automation Developer Python",
+        "Python Automation Specialist",
+        "Python Automation Engineer",
+        "Engenheiro de Automação Python",
+        "Python Automação de Processos",
+        "Especialista em Automação com Python",
+        "Lead Automation Engineer",
+        "Automation Architect"
+    ],
+    "Integração de Dados / ETL / Automação de Dados": [
+        "Analista de Automação de Dados",
+        "Data Automation Analyst",
+        "Data Automation Engineer",
+        "Python ETL Developer",
+        "ETL Automation Developer",
+        "Engenheiro de Integração de Dados",
+        "Data Integration Engineer",
+        "Data Pipeline Engineer",
+        "Desenvolvedor de Pipeline de Dados",
+        "Pipeline Automation Specialist",
+        "Automação de ETL"
+    ],
+    "QA + RPA / QA + Automação de Processos": [
+        "QA RPA",
+        "QA Robotic Process Automation",
+        "Quality Assurance Automation Specialist",
+        "QA Tester RPA",
+        "QA Automação de Processos",
+        "QA Process Automation Engineer"
+    ],
+    "Automação Operacional / SysOps / Scripting": [
+        "SysOps Automation Engineer",
+        "Automation Scripting Engineer",
+        "Python Scripting for Automation",
+        "Engenheiro de Scripting para Automação",
+        "DevOps Automation Engineer",
+        "Infra Automation Specialist",
+        "Infrastructure Automation Engineer"
+    ],
+    "Orquestração / Workflow Automation": [
+        "Workflow Automation Engineer",
+        "Pipeline Automation Specialist",
+        "Workflow Developer",
+        "Process Workflow Automation Specialist"
+    ],
+    "Hyperautomation / Inteligência de Processos": [
+        "Hyperautomation Specialist",
+        "Hyperautomation Engineer",
+        "Intelligent Automation Engineer",
+        "Cognitive Automation Developer",
+        "Intelligent Process Automation Engineer"
+    ],
+    "RPA com Machine Learning / AI": [
+        "RPA and Machine Learning Engineer",
+        "Automation with AI Specialist",
+        "Intelligent Process Automation Engineer",
+        "AI RPA Engineer"
+    ],
+    "Consultoria / Analista de Processos Digitais": [
+        "Process Automation Analyst",
+        "Process Automation Consultant",
+        "Digital Workforce Engineer",
+        "Digital Process Automation Consultant"
+    ]
+}
