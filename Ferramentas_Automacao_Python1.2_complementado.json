@@ -1,11 +1,13 @@
 {
     "RPA (Robotic Process Automation)": [
-        "UiPath (integração via APIs ou scripts externos em Python)",
-        "Power Automate (integração via APIs)",
-        "Automation Anywhere (scripts externos)",
+        "UiPath",
+        "Power Automate",
+        "Automation Anywhere",
+        "OpenRPA",
         "PyAutoGUI",
         "Pywinauto",
-        "OpenRPA"
+        "TagUI for Python",
+        "RPA for Python"
     ],
     "Web Scraping e Data Extraction": [
         "Scrapy",
