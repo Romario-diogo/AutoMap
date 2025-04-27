@@ -21,8 +21,7 @@
         "PyQuery",
         "parsel",
         "pyppeteer"
-]
-,
+    ],
     "Automação de Testes": [
         "Selenium",
         "Playwright",
@@ -38,8 +37,12 @@
         "Discord.py",
         "Slack SDK for Python",
         "RPA Framework for Bots"
-]
-,
+    ],
+
+
+
+
+
     "Automação de Processos, ETL e Orquestração": [
         "Apache Airflow",
         "Prefect",
