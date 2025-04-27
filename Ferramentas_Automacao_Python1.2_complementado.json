@@ -1,5 +1,5 @@
 {
-    "RPA (Robotic Process Automation)": [
+    "RPA ": [
         "UiPath",
         "Power Automate",
         "Automation Anywhere",
@@ -31,14 +31,15 @@
         "PyTest-BDD",
         "Unittest"
     ],
-    "Automação de Bots (Chats, Mensagens, Redes)": [
+    "Automação de Bots": [
         "Telethon",
         "PyTelegramBotAPI",
-        "WhatsApp Web Automation",
+        "Twilio API for WhatsApp", 
         "Discord.py",
         "Slack SDK for Python",
         "RPA Framework for Bots"
-    ],
+]
+,
     "Automação de Processos, ETL e Orquestração": [
         "Apache Airflow",
         "Prefect",
