@@ -1,0 +1,112 @@
+{
+    "RPA (Robotic Process Automation)": [
+        "UiPath (integração via APIs ou scripts externos em Python)",
+        "Power Automate (integração via APIs)",
+        "Automation Anywhere (scripts externos)",
+        "PyAutoGUI",
+        "Pywinauto",
+        "OpenRPA"
+    ],
+    "Web Scraping e Data Extraction": [
+        "Scrapy",
+        "BeautifulSoup",
+        "Selenium",
+        "Playwright",
+        "Requests",
+        "HTTPX",
+        "LXML",
+        "PyQuery"
+    ],
+    "Automação de Testes": [
+        "Selenium",
+        "Playwright",
+        "PyTest + Selenium",
+        "Robot Framework",
+        "PyTest-BDD",
+        "Unittest"
+    ],
+    "Automação de Bots (Chats, Mensagens, Redes)": [
+        "Telethon",
+        "PyTelegramBotAPI",
+        "WhatsApp Web Automation",
+        "Discord.py",
+        "Slack SDK for Python",
+        "RPA Framework for Bots"
+    ],
+    "Automação de Processos, ETL e Orquestração": [
+        "Apache Airflow",
+        "Prefect",
+        "Luigi",
+        "Pandas",
+        "SQLAlchemy"
+    ],
+    "Ferramentas de Suporte (Complementares)": [
+        "Proxy Providers",
+        "Fake-Useragent",
+        "Tor",
+        "Logging",
+        "Schedule"
+    ],
+    "Manipulação de Arquivos e Automação Local": [
+        "os",
+        "shutil",
+        "glob",
+        "openpyxl",
+        "xlrd",
+        "xlwt"
+    ],
+    "Bibliotecas para Integração com APIs": [
+        "Requests",
+        "HTTPX",
+        "FastAPI",
+        "Flask"
+    ],
+    "Manipulação de Documentos (PDF e Word)": [
+        "PyPDF2",
+        "pdfplumber",
+        "python-docx"
+    ],
+    "Complementos para Automação de Testes (BDD)": [
+        "Behave"
+    ],
+    "Processamento Paralelo e Manipulação de Dados em Larga Escala": [
+        "Dask"
+    ],
+    "Validação de Dados e Estruturas em APIs": [
+        "Pydantic"
+    ],
+    "Manipulação e Geração de Documentos": [
+        "reportlab",
+        "tabula-py"
+    ],
+    "Suporte a Re-tentativas em Automação": [
+        "tenacity"
+    ],
+    "Infraestrutura como Código (IaC)": [
+        "boto3 (AWS SDK for Python)",
+        "Pulumi (Python support)",
+        "Terraform (módulos Python)",
+        "Ansible (módulos Python)"
+    ],
+    "Observabilidade / Monitoramento / Métricas": [
+        "prometheus_client",
+        "ELK stack (via APIs)",
+        "APScheduler",
+        "Watchdog"
+    ],
+    "Data Engineering / Big Data Automation": [
+        "pyspark",
+        "Apache Beam (Python SDK)",
+        "dbt (Python hooks)"
+    ],
+    "Machine Learning Automation / MLOps leve": [
+        "MLflow",
+        "DVC",
+        "TensorBoard",
+        "Hydra (configuração)"
+    ],
+    "IAM (Identity and Access Management)": [
+        "boto3 IAM",
+        "Azure SDK for Python"
+    ]
+}
